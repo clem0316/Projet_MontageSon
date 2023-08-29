@@ -1,5 +1,5 @@
 //----------WAVEFORMS-----------
-import WaveSurfer from "https://unpkg.com/wavesurfer.js@beta";
+import WaveSurfer from "https://unpkg.com/wavesurfer.js@7/dist/wavesurfer.esm.js";
 
 //
 
