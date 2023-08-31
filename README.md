@@ -1,6 +1,5 @@
 # Projet_MontageSon
 
-<iframe width="1280" height="720" src="https://youtu.be/XzE2jYwFuuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Bienvenue sur mon projet Montage Son !
 
 ### :headphones: Le projet
