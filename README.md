@@ -16,4 +16,6 @@ Ainsi, sous la vidéo, sont disposées des pistes par Stem :
 
 <br/>
 
+![cover](https://github.com/clem0316/Projet_MontageSon/blob/cb6dc07f9e32fe23849bcd32f323a29c075d0e09/img/Screen3.jpg)
+
 <br/>
