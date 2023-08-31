@@ -46,10 +46,13 @@ De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en c
 :date: Priorité : 
 Rendre le site responsive.
 
+<br/>
+
 :date: A court terme : 
 - Le code peut-être optimisé par des méthodes apprises depuis, qui simplifieraient et réduiraient mon document js
 - Le slider de contrôle de volume doit être retravaillé visuellement
 - La gestion de la synchro entre les éléments audio et la vidéo n'est pas encore optimale (pratiquement 250ms et reste un peu flottante). Plusieurs pistes ont été étudiées sans obtenir pleine satisfaction. La resynchro régulière (toutes les 3000ms) donnait des vrais résultats au niveau synchronisation pure mais créait des artefacts et des "clicks" sonores peu esthétiques.
+<br/>
 
 :date: A moyen terme : 
 - Il est envisagé de passer en techno REACT
