@@ -50,4 +50,5 @@ De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en c
 :date: A moyen terme : 
 - Il est envisagé de passer en techno REACT
 - Le but est de pouvoir choisir parmi plusieurs films différents
+- Je souhaiterais pouvoir décomposer chaque stem pour avoir accès à chacun des sons qui le compose
 
