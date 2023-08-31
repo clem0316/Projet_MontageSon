@@ -6,16 +6,34 @@ Bienvenue sur mon projet Montage Son !
 
 J'ai souhaité proposer une expérience de montage son à l'utilisateur, en lui permettant de manipuler des familles de son, que l'on appelle "Stem" dans le cinéma. 
 
-Ainsi, sous la vidéo, sont disposées des pistes par Stem : 
-- le Stem "Voix directes" ne comprend que les voix du tournage
-- le Stem Post-Synchros" ne contient que les voix ré-enregistrées en studio
-- le Stem "Ambiances" contient toute l'atmosphère du film (le vent, les groupes de gens, la neige, l'eau, etc...)
-- le Stem "Effets" contient tous les sons ponctuels : passages de voiture, hélicos, aboiements...
-- le Stem "Bruitage" contient les bruitages crées en studio, ce sont des sons interprétés par un bruiteur, qui concernent les comédiens : les pas, les vêtements, les mouvements, etc...
-- le Stem "Musique" qui provient du compositeur
+De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en choisissant de les activer, de les isoler ou de toutes les jouer. L'utilisateur peut ainsi écouter la séquence en comprenant les différents étages qui vont composer le résultat.
+
+### :wrench: Comment fonctionne la page ?
+
+:triangular_flag_on_post: Sous la vidéo, sont disposées des pistes par Stem : 
+- :sound: le Stem "Voix directes" ne comprend que les voix du tournage
+- :sound: le Stem Post-Synchros" ne contient que les voix ré-enregistrées en studio
+- :sound: le Stem "Ambiances" contient toute l'atmosphère du film (le vent, les groupes de gens, la neige, l'eau, etc...)
+- :sound: le Stem "Effets" contient tous les sons ponctuels : passages de voiture, hélicos, aboiements...
+- :sound: le Stem "Bruitage" contient les bruitages crées en studio, ce sont des sons interprétés par un bruiteur, qui concernent les comédiens : les pas, les vêtements, les mouvements, etc...
+- :sound: le Stem "Musique" qui provient du compositeur
 
 <br/>
 
 ![cover](https://github.com/clem0316/Projet_MontageSon/blob/cb6dc07f9e32fe23849bcd32f323a29c075d0e09/img/Screen3.jpg)
 
 <br/>
+
+:triangular_flag_on_post: Il est possible, à la fin de chaque piste, de muter :mute: ou demuter :sound: les pistes individuellement :arrow_double_down:
+
+<br/>
+
+![cover](https://github.com/clem0316/Projet_MontageSon/blob/4e87798d37707695550246b24bc0965627d91893/img/Screen5.jpg)
+
+<br/>
+
+:triangular_flag_on_post: Mais une autre manière consite à directement isoler une famille. Par exemple, si je ne souhaite écouter que les ambiances du film :arrow_double_down:
+
+<br/>
+
+![cover](https://github.com/clem0316/Projet_MontageSon/blob/4e87798d37707695550246b24bc0965627d91893/img/Screen4.jpg)
