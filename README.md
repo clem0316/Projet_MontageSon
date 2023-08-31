@@ -15,6 +15,5 @@ Ainsi, sous la vidéo, sont disposées des pistes par Stem :
 - le Stem "Musique" qui provient du compositeur
 
 <br/>
-![cover](https://github.com/clem0316/Projet_MontageSon/blob/e646349384ef5eee8c112d3624e057fe759d4956/img/Screen3.jpg)
 
 <br/>
