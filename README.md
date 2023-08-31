@@ -61,4 +61,8 @@ Rendre le site responsive.
 
 <br/>
 
+:video_camera: Vidéo de démo ici : https://youtu.be/XzE2jYwFuuM
+
+<br/>
+
 ![cover](https://github.com/clem0316/Projet_MontageSon/blob/fd2169acb74a60273baf4f1065f1ba45c388b39b/img/Screen2.jpg)
