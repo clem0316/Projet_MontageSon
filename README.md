@@ -36,4 +36,11 @@ De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en c
 
 <br/>
 
+### :ledger: Objectifs
+
+=> Le code peut-être optimisé par des méthodes apprises depuis, qui simplifieraient et réduiraient mon document js
+- 
+
+<br/>
+
 ![cover](https://github.com/clem0316/Projet_MontageSon/blob/4e87798d37707695550246b24bc0965627d91893/img/Screen4.jpg)
