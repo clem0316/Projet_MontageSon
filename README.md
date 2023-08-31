@@ -41,6 +41,7 @@ De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en c
 <br/>
 
 ### :ledger: Difficultés rencontrées et futurs Objectifs : 
+<br/>
 
 :date: A court terme : 
 - Le code peut-être optimisé par des méthodes apprises depuis, qui simplifieraient et réduiraient mon document js
