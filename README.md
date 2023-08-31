@@ -1,6 +1,10 @@
 # Projet_MontageSon
 
 Bienvenue sur mon projet Montage Son !
+<br/>
+
+![cover](https://github.com/clem0316/Projet_MontageSon/blob/fd2169acb74a60273baf4f1065f1ba45c388b39b/img/Screen2.jpg)
+<br/>
 
 ### :headphones: Le projet
 
