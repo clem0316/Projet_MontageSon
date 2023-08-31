@@ -13,3 +13,8 @@ Ainsi, sous la vidéo, sont disposées des pistes par Stem :
 - le Stem "Effets" contient tous les sons ponctuels : passages de voiture, hélicos, aboiements...
 - le Stem "Bruitage" contient les bruitages crées en studio, ce sont des sons interprétés par un bruiteur, qui concernent les comédiens : les pas, les vêtements, les mouvements, etc...
 - le Stem "Musique" qui provient du compositeur
+
+<br/>
+![cover](https://github.com/clem0316/Projet_MontageSon/blob/eb28230a25dd46df0d75497606914d54db164525/img/Image%2031-08-2023%20a%CC%80%2014.16.jpg)
+
+<br/>
