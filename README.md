@@ -43,6 +43,9 @@ De cette manière, l'utilisateur va pouvoir interagir avec les pistes audio en c
 ### :ledger: Difficultés rencontrées et futurs Objectifs : 
 <br/>
 
+:date: Priorité : 
+Rendre le site responsive.
+
 :date: A court terme : 
 - Le code peut-être optimisé par des méthodes apprises depuis, qui simplifieraient et réduiraient mon document js
 - Le slider de contrôle de volume doit être retravaillé visuellement
